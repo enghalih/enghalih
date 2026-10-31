@@ -15,4 +15,13 @@ I am a full-stack software developer, driven by a strong passion for building hi
 Languages & Tools
 --------------------
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,nextjs,vite,tailwind,scss)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=laravel,supabase)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vitest,jest)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,nextjs,vite,tailwind,scss,laravel,supabase,vercel,netlify,vitest,jest,git,github,figma)
+
+
+
+
+Stats
+--------------------
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=enghalih&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=enghalih&include_all_commits=true&theme=dark_github) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=enghalih&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=enghalih&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=enghalih&langs_count=6&theme=dark_github)](https://wakatime.com/@enghalih)
