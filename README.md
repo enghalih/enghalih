@@ -10,9 +10,25 @@ I am a full-stack software developer, driven by a strong passion for building hi
 * 🖥️  See my portfolio at [enghalih.com](http://enghalih.com)
 * ✉️  You can contact me at [enghalih685@gmail.com](mailto:enghalih685@gmail.com)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-</p>
+
+
+Skills
+--------------------
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,vite,tailwind,scss)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=laravel,supabase)](https://skillicons.dev)
+
+### Deployment
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+### Testing
+[![My Skills](https://skillicons.dev/icons?i=vitest,jest,playwright)](https://skillicons.dev)
+
+### Design & Version Control Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 ### Socials
 
@@ -20,15 +36,3 @@ I am a full-stack software developer, driven by a strong passion for building hi
 <a href="https://www.github.com/enghalih" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enghalih?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/enghalih"><img src="https://github-readme-stats.vercel.app/api?username=enghalih&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enghalih's GitHub stats" /></a>
-
-<a href="http://www.github.com/enghalih"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enghalih&stroke=14b8a6&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/enghalih" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghalih&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/enghalih/my-portofolios" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=enghalih&repo=my-portofolios&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
