@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wenning Ghalih
+Hi My name is Wenning Ghalih
 =======================================================================================================================================
 
 Full-Stack Developer
@@ -24,4 +24,3 @@ Stats
 --------------------
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=enghalih&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=enghalih&include_all_commits=true&theme=dark_github) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=enghalih&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=enghalih&langs_count=4&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=enghalih&langs_count=6&theme=dark_github)](https://wakatime.com/@enghalih)
